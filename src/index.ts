@@ -57,7 +57,7 @@ showUI({
     });
   },
   title: 'AR 3D Model',
-  subtitle: 'Presented by: Zappar',
+  subtitle: 'Presented by: Metadrob',
   buttonText: 'Tap to Start',
   // background: "",
   logo,
