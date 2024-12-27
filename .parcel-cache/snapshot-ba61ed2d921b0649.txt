@@ -1,10 +1,10 @@
-8767
-50C:\Users\DELL\Desktop\Ar\AR-poc-project\.gitignore133797495130924552 0
+8766
+50C:\Users\DELL\Desktop\Ar\AR-poc-project\.gitignore133797544097451588 0
 85C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\ua-parser-js\.github\FUNDING.yml133797495258427316 0
 84C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\caniuse-lite\data\regions\RE.js133797495290573011 0
 91C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\type-fest\source\iterable-element.d.ts133797495257761554 0
 75C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\commander\package.json133797495248406941 0
-52C:\Users\DELL\Desktop\Ar\AR-poc-project\package.json133797529281349795 0
+52C:\Users\DELL\Desktop\Ar\AR-poc-project\package.json133797545514199342 0
 91C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\three\examples\jsm\utils\SceneUtils.js133797495304689671 0
 107C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@zappar\zappar-threejs\lib\trackers\faceanchorgroup.js133797495265220079 0
 76C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\lodash\toPlainObject.js133797495299240315 0
@@ -13,15 +13,15 @@
 99C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\three\examples\js\postprocessing\GlitchPass.js133797495288277145 0
 75C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\lodash\_basePullAll.js133797495263734697 0
 111C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\three\src\renderers\shaders\ShaderChunk\fog_vertex.glsl.js133797495287362317 0
-57C:\Users\DELL\Desktop\Ar\AR-poc-project\package-lock.json133797502012128149 0
+57C:\Users\DELL\Desktop\Ar\AR-poc-project\package-lock.json133797545140532030 0
 71C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\lmdb\src\lmdb-js.h133797495265495287 0
 71C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\async\unmemoize.js133797495265415311 0
 121C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\three\src\renderers\shaders\ShaderChunk\lights_toon_fragment.glsl.js133797495291952727 0
 101C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\three\examples\jsm\shaders\TriangleBlurShader.js133797495309867498 0
-44C:\Users\DELL\Desktop\Ar\AR-poc-project\dist133797529386765780 1
+44C:\Users\DELL\Desktop\Ar\AR-poc-project\dist133797545502388925 1
 67C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\gl-matrix\mat3133797495259913715 1
 121C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\three\src\renderers\shaders\ShaderChunk\tonemapping_fragment.glsl.js133797495309104646 0
-70C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@msgpackr-extract133797502010802952 1
+70C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@msgpackr-extract133797545139858965 1
 103C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\three\examples\jsm\node-editor\math\AngleEditor.js133797495264124679 0
 116C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@parcel\package-manager\node_modules\semver\functions\coerce.js133797495296474893 0
 80C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\node-addon-api\node_api.gyp133797495251665500 0
@@ -42,7 +42,7 @@
 126C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\three\src\renderers\shaders\ShaderChunk\emissivemap_pars_fragment.glsl.js133797495285658036 0
 101C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@types\three\examples\jsm\loaders\TTFLoader.d.ts133797495267966066 0
 80C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\lightningcss-win32-x64-msvc133797495252702361 1
-52C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules133797502010791261 1
+52C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules133797545139846240 1
 81C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\three\examples\jsm\renderers133797495307010308 1
 59C:\Users\DELL\Desktop\Ar\AR-poc-project\preview-qr-code.png133797495132232496 0
 113C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\three\examples\jsm\renderers\webgpu\WebGPURenderPipelines.js133797495316068467 0
@@ -57,18 +57,6 @@
 72C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\async\autoInject.js133797495257785321 0
 87C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@parcel\runtime-service-worker\lib133797495274641912 1
 46C:\Users\DELL\Desktop\Ar\AR-poc-project\public133797495132808797 1
-73C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\lodash\_baseClone.js133797495258909929 0
-75C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\type-fest\package.json133797495247204689 0
-103C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\three\examples\js\libs\draco\gltf\draco_encoder.js133797495284498719 0
-74C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\lodash\fp\dropLast.js133797495282866581 0
-61C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\anymatch133797502009501680 1
-73C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\ua-parser-js\.github133797495258451996 1
-122C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\three\src\renderers\shaders\ShaderChunk\normal_fragment_begin.glsl.js133797495300447960 0
-106C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\posthtml\node_modules\dom-serializer\lib\esm\index.js133797495295143171 0
-49C:\Users\DELL\Desktop\Ar\AR-poc-project\README.md133797495130938712 0
-86C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@parcel\utils\src\prettifyTime.js133797495266920761 0
-69C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\lodash\forOwn.js133797495285703385 0
-94C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\three\src\core\InstancedBufferGeometry.js133797495290334479 0
 133C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\ordered-binary\.nyc_output\processinfo\5b6bd808-0399-4ee6-9395-344688761dfa.json133797495256259271 0
 92C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@parcel\node-resolver-core\package.json133797495290015539 0
 63C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@parcel\fs133797495297419276 1
@@ -140,7 +128,7 @@
 77C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\ua-parser-js\security.md133797495258226285 0
 98C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@zappar\zappar-cv\lib\worker-imagebitmap.d.ts133797495271479971 0
 71C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\lodash\fp\curry.js133797495281627706 0
-54C:\Users\DELL\Desktop\Ar\AR-poc-project\src\index.html133797495132948754 0
+54C:\Users\DELL\Desktop\Ar\AR-poc-project\src\index.html133797541576482204 0
 62C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\undefsafe133797502009734273 1
 108C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\react-refresh\cjs\react-refresh-babel.production.min.js133797495252807736 0
 93C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\three\examples\js\utils\GPUStatsPanel.js133797495288877514 0
@@ -182,7 +170,7 @@
 72C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\braces\lib\utils.js133797495252774465 0
 89C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\three\examples\jsm\offscreen\jank.js133797495290628134 0
 91C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@types\three\src\objects\LineLoop.d.ts133797495285658036 0
-71C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\.package-lock.json133797502012974026 0
+71C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\.package-lock.json133797545140963110 0
 110C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\simple-update-notifier\node_modules\semver\internal\re.js133797502010311833 0
 91C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\lmdb\dependencies\lz4\lib\liblz4.pc.in133797495267010763 0
 88C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\three\examples\jsm\node-editor\core133797495267020764 1
@@ -214,7 +202,7 @@
 106C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@types\three\examples\jsm\shaders\HalftoneShader.d.ts133797495272357745 0
 77C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\timsort\build\timsort.js133797495296966117 0
 91C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\three\examples\js\loaders\KTXLoader.js133797495290981994 0
-58C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@lmdb133797502010802952 1
+58C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@lmdb133797545139858965 1
 78C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\lodash\_initCloneArray.js133797495270065079 0
 91C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\caniuse-lite\data\features\bloburls.js133797495262176581 0
 87C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@types\three\src\math\interpolants133797495285458634 1
@@ -241,7 +229,7 @@
 79C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\three\examples\jsm\loaders133797495316584826 1
 118C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\three\src\renderers\shaders\ShaderChunk\lights_pars_begin.glsl.js133797495291858416 0
 94C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\htmlparser2\lib\esm\WritableStream.js.map133797495259053511 0
-60C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@parcel133797502010802952 1
+60C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@parcel133797545139858965 1
 68C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\async\select.js133797495264509998 0
 111C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\three\examples\jsm\node-editor\procedural\CheckerEditor.js133797495271893717 0
 72C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\lodash\fp\repeat.js133797495293345369 0
@@ -253,7 +241,7 @@
 127C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\posthtml\node_modules\dom-serializer\node_modules\entities\lib\encode.d.ts133797495257671169 0
 83C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\three\src\helpers\BoxHelper.js133797495269308195 0
 116C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@parcel\transformer-babel\node_modules\semver\ranges\outside.js133797495298735365 0
-57C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@swc133797502010791261 1
+57C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@swc133797545139846240 1
 83C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@parcel\core\lib\assetUtils.js133797495298995912 0
 107C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\caniuse-lite\data\features\wasm-nontrapping-fptoint.js133797495294242111 0
 70C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\lines-and-columns133797495249511301 1
@@ -285,6 +273,12 @@
 97C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\three\examples\jsm\renderers\nodes\materials133797495302871050 1
 113C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@swc\helpers\_\_class_private_field_destructure\package.json133797495271672811 0
 60C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@zappar133797495241397306 1
+73C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\lodash\_baseClone.js133797495258909929 0
+75C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\type-fest\package.json133797495247204689 0
+103C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\three\examples\js\libs\draco\gltf\draco_encoder.js133797495284498719 0
+74C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\lodash\fp\dropLast.js133797495282866581 0
+61C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\anymatch133797502009501680 1
+73C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\ua-parser-js\.github133797495258451996 1
 84C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\three\examples\jsm\package.json133797495318864934 0
 70C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\pstree.remy\tests133797502009643437 1
 76C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\lodash\fp\invokeArgs.js133797495287322007 0
@@ -621,7 +615,7 @@
 89C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\.bin\download-msgpackr-prebuilds.cmd133797495326346170 0
 69C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\lodash\_Stack.js133797495272605960 0
 94C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@parcel\utils\test\input\config\config.js133797495264064671 0
-68C:\Users\DELL\Desktop\Ar\AR-poc-project\dist\zappar-cv.5578e4a0.wasm133797529290937865 0
+68C:\Users\DELL\Desktop\Ar\AR-poc-project\dist\zappar-cv.5578e4a0.wasm133797545499165184 0
 92C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@parcel\graph\test\ContentGraph.test.js133797495292756890 0
 60C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\is-json133797495253496551 1
 62C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\is-number133797495249054993 1
@@ -1279,7 +1273,7 @@
 97C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\caniuse-lite\data\features\css-first-line.js133797495268569752 0
 85C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\term-size\vendor\macos\.DS_Store133797495251294903 0
 78C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\type-fest\ts41\index.d.ts133797495257626124 0
-62C:\Users\DELL\Desktop\Ar\AR-poc-project\dist\index.b71e74eb.js133797529386585563 0
+62C:\Users\DELL\Desktop\Ar\AR-poc-project\dist\index.b71e74eb.js133797545499155260 0
 75C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\lodash\_composeArgs.js133797495266225463 0
 68C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\globby\index.js133797495296625798 0
 71C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\timsort\LICENSE.md133797495296721283 0
@@ -1447,6 +1441,7 @@
 108C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@types\three\examples\jsm\lines\WireframeGeometry2.d.ts133797495265555326 0
 104C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\three\examples\jsm\shaders\ColorCorrectionShader.js133797495273690619 0
 84C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\caniuse-lite\data\regions\KR.js133797495285836120 0
+119C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\three\src\renderers\shaders\ShaderChunk\normal_pars_vertex.glsl.js133797495300558904 0
 71C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\lodash\template.js133797495297663893 0
 68C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\touch\README.md133797502009581703 0
 74C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\lodash\isEqualWith.js133797495287981032 0
@@ -1454,7 +1449,6 @@
 84C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@parcel\profiler\lib\index.d.ts133797495279435715 0
 72C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\dotenv\package.json133797495253719593 0
 117C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@parcel\transformer-posthtml\node_modules\semver\functions\eq.js133797495297257548 0
-119C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\three\src\renderers\shaders\ShaderChunk\normal_pars_vertex.glsl.js133797495300558904 0
 95C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@swc\helpers\_\_initializer_warning_helper133797495273370326 1
 71C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\three\src\textures133797495313102307 1
 80C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\find-cache-dir\package.json133797495248280413 0
@@ -1847,6 +1841,8 @@
 119C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\three\src\renderers\shaders\ShaderChunk\morphtarget_vertex.glsl.js133797495299563017 0
 98C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\three\examples\jsm\nodes\math\OperatorNode.js133797495301802637 0
 92C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\three\examples\jsm\loaders\TGALoader.js133797495308084329 0
+122C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\three\src\renderers\shaders\ShaderChunk\normal_fragment_begin.glsl.js133797495300447960 0
+106C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\posthtml\node_modules\dom-serializer\lib\esm\index.js133797495295143171 0
 107C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@parcel\workers\test\integration\workerfarm\console.js133797495264134663 0
 75C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\lodash\wrapperChain.js133797495301021583 0
 83C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@parcel\core\src\Dependency.js133797495300078096 0
@@ -2250,6 +2246,8 @@
 97C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\three\examples\jsm\exporters\USDZExporter.js133797495310458066 0
 92C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\cosmiconfig\dist\canUseDynamicImport.js133797495252627473 0
 105C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@types\three\examples\jsm\exporters\PLYExporter.d.ts133797495263714660 0
+69C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\lodash\forOwn.js133797495285703385 0
+94C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\three\src\core\InstancedBufferGeometry.js133797495290334479 0
 85C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\three\src\cameras\ArrayCamera.js133797495265405310 0
 84C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\caniuse-lite\data\regions\VN.js133797495293984773 0
 96C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\three\examples\jsm\nodes\utils\TimerNode.js133797495309069454 0
@@ -4007,7 +4005,7 @@
 70C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\.bin\gh-pages.cmd133797495326346170 0
 65C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\pify\license133797495296587500 0
 79C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@parcel\watcher\src\kqueue133797495259565211 1
-79C:\Users\DELL\Desktop\Ar\AR-poc-project\dist\face_mesh_face_model.e726983f.zbin133797529289867890 0
+79C:\Users\DELL\Desktop\Ar\AR-poc-project\dist\face_mesh_face_model.e726983f.zbin133797545497756316 0
 70C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\pify\package.json133797495296245669 0
 71C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\picomatch\index.js133797495248393327 0
 66C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\picomatch\lib133797495252350426 1
@@ -4682,7 +4680,7 @@
 66C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\lodash\now.js133797495291264264 0
 69C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\lodash\nthArg.js133797495291346422 0
 69C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\lodash\number.js133797495291409120 0
-63C:\Users\DELL\Desktop\Ar\AR-poc-project\dist\worker.28e6c374.js133797529386408047 0
+63C:\Users\DELL\Desktop\Ar\AR-poc-project\dist\worker.28e6c374.js133797545497192142 0
 67C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\lodash\omit.js133797495291480214 0
 76C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\js-yaml\lib\type\int.js133797495257537684 0
 97C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@parcel\workers\lib\threads\ThreadsWorker.js133797495265495287 0
@@ -4947,7 +4945,7 @@
 73C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\lodash\_baseTimes.js133797495264709999 0
 76C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\lodash\_baseToNumber.js133797495264770004 0
 98C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@types\three\src\animation\AnimationClip.d.ts133797495275612967 0
-62C:\Users\DELL\Desktop\Ar\AR-poc-project\dist\logo.f0c67fd0.png133797529289782001 0
+62C:\Users\DELL\Desktop\Ar\AR-poc-project\dist\logo.f0c67fd0.png133797545497192142 0
 76C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\lodash\_baseToString.js133797495264869957 0
 89C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@parcel\types-internal\lib\Glob.d.ts133797495264400020 0
 72C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\lodash\fp\sample.js133797495293550774 0
@@ -7950,6 +7948,7 @@
 85C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@parcel\utils\src\http-server.js133797495264919974 0
 79C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@parcel\utils\src\index.js133797495266045284 0
 87C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@parcel\utils\src\openInBrowser.js133797495266640735 0
+86C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@parcel\utils\src\prettifyTime.js133797495266920761 0
 90C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@parcel\utils\src\progress-message.js133797495267180763 0
 92C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@parcel\utils\src\relativeBundlePath.js133797495267340848 0
 97C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@parcel\utils\src\replaceBundleReferences.js133797495267426068 0
@@ -8049,7 +8048,7 @@
 118C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@parcel\transformer-posthtml\node_modules\semver\classes\index.js133797495297851053 0
 118C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@parcel\transformer-posthtml\node_modules\semver\classes\range.js133797495298859873 0
 113C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@parcel\transformer-js\node_modules\semver\ranges\outside.js133797495298673751 0
-78C:\Users\DELL\Desktop\Ar\AR-poc-project\dist\face_tracking_model.36a24a9b.zbin133797529290959531 0
+78C:\Users\DELL\Desktop\Ar\AR-poc-project\dist\face_tracking_model.36a24a9b.zbin133797545498888748 0
 100C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@parcel\transformer-posthtml\lib\loadPlugins.js133797495264929976 0
 108C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@parcel\transformer-posthtml\lib\PostHTMLTransformer.js133797495265039961 0
 88C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\@parcel\transformer-postcss\LICENSE133797495263574668 0
@@ -8754,15 +8753,15 @@
 80C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\.bin\update-browserslist-db133797495326371388 0
 84C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\.bin\update-browserslist-db.cmd133797495326381386 0
 84C:\Users\DELL\Desktop\Ar\AR-poc-project\node_modules\.bin\update-browserslist-db.ps1133797495326371388 0
-95C:\Users\DELL\Desktop\Ar\AR-poc-project\dist\face_mesh_full_head_simplified_model.ad11719c.zbin133797529290745229 0
-65C:\Users\DELL\Desktop\Ar\AR-poc-project\dist\hotspot.55af559c.png133797529290634179 0
-63C:\Users\DELL\Desktop\Ar\AR-poc-project\dist\index.2212206d.css133797529290346848 0
-67C:\Users\DELL\Desktop\Ar\AR-poc-project\dist\index.2212206d.css.map133797529290382319 0
-66C:\Users\DELL\Desktop\Ar\AR-poc-project\dist\index.b71e74eb.js.map133797529386741258 0
-55C:\Users\DELL\Desktop\Ar\AR-poc-project\dist\index.html133797529291122443 0
-64C:\Users\DELL\Desktop\Ar\AR-poc-project\dist\studio.4f46f317.glb133797529295905819 0
-67C:\Users\DELL\Desktop\Ar\AR-poc-project\dist\worker.28e6c374.js.map133797529386585563 0
-68C:\Users\DELL\Desktop\Ar\AR-poc-project\dist\zappar-cv.c9f72874.wasm133797529290644085 0
+95C:\Users\DELL\Desktop\Ar\AR-poc-project\dist\face_mesh_full_head_simplified_model.ad11719c.zbin133797545498032715 0
+65C:\Users\DELL\Desktop\Ar\AR-poc-project\dist\hotspot.55af559c.png133797545497846363 0
+63C:\Users\DELL\Desktop\Ar\AR-poc-project\dist\index.2212206d.css133797545497192142 0
+67C:\Users\DELL\Desktop\Ar\AR-poc-project\dist\index.2212206d.css.map133797545497756316 0
+66C:\Users\DELL\Desktop\Ar\AR-poc-project\dist\index.b71e74eb.js.map133797545499346768 0
+55C:\Users\DELL\Desktop\Ar\AR-poc-project\dist\index.html133797541577638516 0
+64C:\Users\DELL\Desktop\Ar\AR-poc-project\dist\studio.4f46f317.glb133797545502298896 0
+67C:\Users\DELL\Desktop\Ar\AR-poc-project\dist\worker.28e6c374.js.map133797545497776310 0
+68C:\Users\DELL\Desktop\Ar\AR-poc-project\dist\zappar-cv.c9f72874.wasm133797545497846363 0
 58C:\Users\DELL\Desktop\Ar\AR-poc-project\assets\favicon.png133797495130950099 0
 55C:\Users\DELL\Desktop\Ar\AR-poc-project\assets\logo.png133797495130974346 0
 57C:\Users\DELL\Desktop\Ar\AR-poc-project\assets\studio.glb133797495132198887 0

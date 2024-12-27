@@ -1,5 +1,5 @@
 {
-  "name": "zappar-threejs-example",
+  "name": "metadrob-threejs-example",
   "version": "0.0.0",
   "description": "Example using Zappar's ThreeJS wrapper",
   "source": "src/index.html",
@@ -7,7 +7,6 @@
     "start": "parcel --https --host  192.168.2.72",
     "build": "parcel build --public-url='./' --no-source-maps"
   },
-  "author": "Zappar Limited",
   "dependencies": {
     "@zappar/splash": "0.0.0-rc.1",
     "@zappar/zappar-threejs": "2.0.1",
