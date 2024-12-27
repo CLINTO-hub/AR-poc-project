@@ -53,7 +53,12 @@ showUI({
 
         camera.start();
         placeButton.style.display = 'block';
-      } else ZapparThree.permissionDeniedUI();
+      } else {
+        e.destroy();
+
+        camera.start();
+        placeButton.style.display = 'block';
+      }
     });
   },
   title: 'AR 3D Model',
