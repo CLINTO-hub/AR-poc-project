@@ -2,4 +2,4 @@ out
 lib
 node_modules
 dist
-.parcel-cache
+# .parcel-cache
